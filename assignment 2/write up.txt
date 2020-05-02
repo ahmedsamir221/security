@@ -1,0 +1,2 @@
+we need to reverse the operation and use the fact that if z=x^y then x=z^y
+we will start from the end then use subistitution to get the all values
